@@ -4,22 +4,29 @@
 
 
 Naive Random Oversampling:
+
 ![Photo_1](https://user-images.githubusercontent.com/105950742/193168478-7ec98a17-4ab7-445d-b70a-4af4fa70bc5e.png)
+
 ![Photo_2](https://user-images.githubusercontent.com/105950742/193168480-b93c02fc-3326-4beb-8faf-f0d6303cc961.png)
 
 SMOTE Oversampling:
+
 ![Photo_3](https://user-images.githubusercontent.com/105950742/193168481-5527a2a2-ed55-46b7-9f22-85b7a5ad6e1c.png)
 
 Cluster Centroid Undersampling:
+
 ![Photo_4](https://user-images.githubusercontent.com/105950742/193168472-68f2111d-87c0-4106-b33d-1a8384371f65.png)
 
 SMOTEENN Combination Sampling:
+
 ![Photo_5](https://user-images.githubusercontent.com/105950742/193168473-4b404ffb-a7a1-4d19-b1d3-aead0fa51366.png)
 
 Balanced Random Forest Classifier:
+
 ![Photo_6](https://user-images.githubusercontent.com/105950742/193168475-d4a52e5d-52c3-4443-b54a-1dca88374a35.png)
 
 Easy Ensemble AdaBoost Classifier:
+
 ![Photo_7](https://user-images.githubusercontent.com/105950742/193168476-9e3360cf-c3d4-40b8-8563-e39e6aa41975.png)
 
 
